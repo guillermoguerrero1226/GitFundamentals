@@ -9,3 +9,5 @@ feature 2
 Features2 changed
 feature2_additional
 Fixing bug#1234
+=======
+>>>>>>> Really fixing Bug#1234
