@@ -9,3 +9,4 @@ Another fix to Bug#1234
 Feature1
 feature 2
 Features2 changes
+adding text for make conflicts in the merge
