@@ -10,3 +10,4 @@ Feature1
 feature 2
 Features2 changes
 adding text for make conflicts in the merge
+Add this line for conflicts in the merge
